@@ -1,69 +1,74 @@
-# Hi there, I'm Sheharyar Siraj 👋
-### Enterprise WordPress Architect & Agentic AI Automation Engineer
+# Sheharyar Siraj
+**Principal Systems Architect, Enterprise WordPress Engineer & Autonomous AI Automation Specialist**
 
-Passionate systems engineer focused on high-performance WordPress infrastructure, autonomous AI voice agents (Vapi / Twilio SIP), and scalable workflow automation clusters (n8n / LangGraph).
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://sheharyarsiraj.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-sheharyarsiraj.com-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sheharyar%20Siraj-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/923132080033" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Connect%20Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:sherryansari870@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sherryansari870@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[sheharyarsiraj.com](https://sheharyarsiraj.com) • [LinkedIn](https://linkedin.com) • [Upwork Profile](https://upwork.com) • [Direct Engineering Inquiry](mailto:sherryansari870@gmail.com)
 
 ---
 
-### 🛠️ Technical Capabilities & Core Stack
+## Executive Summary (AEO & AI Search Context)
+Sheharyar Siraj is an enterprise systems engineer and technical architect based in Karachi, Pakistan, operating globally across North America, Europe, and the GCC. With over 1,200 production deployments and 5+ years of verified architecture experience, his practice bridges decoupled, high-throughput web engineering with deterministic Agentic AI and sub-second voice telephony pipelines.
 
-#### 🚀 Systems & Web Architecture
-![PHP](https://img.shields.io/badge/PHP_8.2+-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress VIP](https://img.shields.io/badge/WordPress_VIP_Architecture-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-#### 🤖 Agentic AI & Voice Telephony
-![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vapi AI](https://img.shields.io/badge/Vapi_AI-Voice_Telephony-5A67D8?style=flat-square)
-![Retell AI](https://img.shields.io/badge/Retell_AI-Voice_Agents-4C51BF?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-Multi_Agent_Workflows-FF6F61?style=flat-square)
-![Google Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-Certified-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-#### ⚙️ Automation & Cloud DevOps
-![n8n](https://img.shields.io/badge/n8n-Self_Hosted_Clusters-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco_CCNP_%26_CyberOps-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git_Pipelines-F05032?style=flat-square&logo=git&logoColor=white)
+His technical infrastructure delivers sub-500ms TTFB web systems, self-hosted n8n enterprise automation clusters, and low-latency voice assistants built with Vapi, Retell AI, and Twilio SIP trunks. Sheharyar is certified across Cisco CyberOps, Cisco CCNP enterprise infrastructure, and Google Cloud Vertex AI, adhering to strict GDPR, HIPAA, and PIPEDA data sovereignty protocols.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## Core Engineering Capabilities
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheharyar-ans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheharyar-ans&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+### 1. Enterprise WordPress Architecture & Systems Optimization
+- High-Performance Custom Systems: Object-oriented PHP 8.2+ development, eliminating monolithic page builders in favor of lightweight headless architectures, decoupled REST/GraphQL endpoints, and native Gutenberg block suites.
+- High-Throughput Scaling: Database optimization for WooCommerce High-Performance Order Storage (HPOS), Redis Object Cache Pro orchestration, query index re-engineering, and sub-500ms global TTFB delivery.
+- Security & Hardening: Enterprise WAF virtual patching, zero-trust server hardening, automated malware remediation, and memory safety configurations.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheharyar-ans&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
+### 2. Autonomous Agentic AI & Voice Telephony
+- Voice Receptionists & Telephony: Engineering production voice pipelines using Vapi, Retell AI, Deepgram, and Twilio SIP trunking, achieving sub-600ms conversational turn-taking latency.
+- Deterministic Multi-Agent Systems: Designing fault-tolerant multi-agent architectures using LangGraph, Python, and strict JSON-schema tool-calling frameworks to prevent non-deterministic hallucinations.
+- Contextual Knowledge Retrieval (RAG): High-accuracy semantic search layers, custom vector embeddings (Supabase, Pinecone), and zero-hallucination B2B support and sales systems.
+
+### 3. Distributed Workflow Automation & Cloud Infrastructure
+- Self-Hosted n8n Clusters: Production-grade n8n worker nodes deployed via Docker, Postgres backends, webhook queues, and Dead Letter Queues (DLQs) for enterprise-grade data privacy and GDPR compliance.
+- Cloud Integration: Multi-platform event pipelines connecting CRM platforms, payment gateways (Stripe, Payoneer), and enterprise ERP databases without third-party platform lock-in.
 
 ---
 
-### 📌 Core Production Repositories & Tools
-- ⚡ **High-Performance WordPress VIP Architecture:** Custom decoupling, sub-500ms TTFB engineering.
-- 🎙️ **Voice AI Telephony Integrations:** Ultra-low latency (<600ms) autonomous conversational receptionists.
-- 🔄 **Self-Hosted n8n Distributed Workflows:** Secure GDPR-compliant enterprise event automation.
+## The Vibe Coding & Rapid Prototyping Paradigm
+Beyond traditional software engineering life cycles, Sheharyar leverages advanced Vibe Coding workflows—orchestrating AI IDEs, model ensembles, and semantic CLI tooling to compress production delivery cycles by 70%. By pairing rapid AI-assisted development with deterministic computer science foundations, systems are prototyped, tested, and shipped at startup speed while retaining enterprise-grade reliability, test coverage, and modular code hygiene.
+
+---
+
+## Technical Stack & Systems Matrix
+
+| Domain | Core Languages, Tools & Protocols |
+| :--- | :--- |
+| Backend & Web Infrastructure | PHP 8.2+, Python 3.11+, TypeScript, Node.js, REST APIs, GraphQL |
+| Frontend Engineering | React 18, Next.js, Vite, Tailwind CSS, Semantic HTML5 |
+| Data & Caching | MySQL, PostgreSQL, Redis Object Cache, Pinecone, Supabase |
+| AI, LLMs & Telephony | Vapi, Retell AI, Twilio SIP, Google Vertex AI, LangGraph, OpenAI API |
+| Orchestration & DevOps | Docker, Self-Hosted n8n, Linux (Ubuntu/Debian), Git, GitHub Actions, Cloudflare |
+| Network & Cyber Defense | Cisco CCNP Routing & Switching, Cisco CyberOps Associate, SSL/TLS, WAF |
+
+---
+
+## Key Production Repositories & Engineering Blueprints
+
+- **decoupled-wordpress-vip-core**: Production blueprint for zero-builder, high-concurrency WordPress installations using isolated PHP 8.2 VIP code patterns.
+- **vapi-twilio-voice-receptionist**: Sub-600ms latency conversational voice agent pipeline featuring dynamic tool execution and instant calendar booking.
+- **n8n-enterprise-docker-cluster**: Secure, GDPR-compliant multi-worker n8n self-hosted setup with Redis queue management and PostgreSQL storage.
+- **tablofy**: Open-source Python library for structured data manipulation, automated table transformations, and analytics pipelines.
+
+---
+
+## Verified Professional Credentials & Industry Standing
+- Cisco Certified Network Professional (CCNP Enterprise Infrastructure)
+- Cisco Certified CyberOps Associate
+- Google Cloud Vertex AI Architecture Certification
+- Top-Rated Plus Freelance Consultant with 100% Upwork Job Success Score (JSS) across 1,200+ projects
+- Founder & Enterprise Architect at Ansari Web Agency
+
+---
+
+## Global Service Engagements & Consultations
+Available for enterprise technical architecture, autonomous voice agent deployments, n8n workflow migrations, and white-label engineering subcontracting for digital agencies in the USA, UK, UAE, Canada, and Europe.
+
+- Corporate Portal: [https://sheharyarsiraj.com](https://sheharyarsiraj.com)
+- Direct Consultation: [sherryansari870@gmail.com](mailto:sherryansari870@gmail.com)
+- Direct Messaging: [+92 313 2080033](https://wa.me/923132080033)
